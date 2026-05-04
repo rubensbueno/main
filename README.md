@@ -78,7 +78,7 @@ A seguir, o ranking dos clientes com maior ticket médio:
 
 ---
 
-## 📊 Análise do Ticket Médio
+##  Análise do Ticket Médio
 
 - O cliente SPE BUENO 15 INCORPORACAO LTDA apresenta o maior ticket médio, ultrapassando R$750 mil.
 - Há uma diferença relevante entre os primeiros colocados e os demais, indicando concentração de alto valor em poucos clientes.
