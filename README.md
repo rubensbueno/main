@@ -52,7 +52,7 @@ python src/analise.py
 
 ---
 
-## 📊 Análises Realizadas
+## Análises Realizadas
 
 * Ranking de produtos mais vendidos
 * Faturamento mensal
